@@ -1,0 +1,13 @@
+# data
+data
+export
+
+# log
+*.log
+
+# temp
+*.*~
+
+# package lib
+
+*.zip
